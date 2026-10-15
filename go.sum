@@ -1,0 +1,4 @@
+github.com/bearsh/hid v1.6.0 h1:eOBSuF2pg+SCytKGuGjOzZx73xQ72gevJ5IlFvzgfGE=
+github.com/bearsh/hid v1.6.0/go.mod h1:7JhM3r/tm4ALu4WWFqshda+Q6aIcnGRpUR08sx/dHdc=
+golang.org/x/sys v0.23.0 h1:YfKFowiIMvtgl1UERQoTPPToxltDeZfbj4H7dVUCwmM=
+golang.org/x/sys v0.23.0/go.mod h1:/VUhepiaJMQUp4+oa/7Zr1D23ma6VTLIYjOOTFZPUcA=
